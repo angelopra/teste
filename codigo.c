@@ -7,5 +7,5 @@ int soma(int a, int b){
 }
 
 int main(){
-    printf("Hello!");
+    printf("Hello, dumb!");
 }
